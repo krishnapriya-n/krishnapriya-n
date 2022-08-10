@@ -9,11 +9,25 @@
 
 # Languages 
 
+<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "70" height = "70" style = "max-width: 100%;"> 
+</a>
+&nbsp;
 
+<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
 <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
+</a>
+&nbsp;
 
+<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title = "Java" alt = "Java" width = "70" height = "70" style = "max-width: 100%;">
+</a>
+&nbsp;
 
+<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
+</a>
+&nbsp;
 
 <!---
 krishnapriya-n/krishnapriya-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
