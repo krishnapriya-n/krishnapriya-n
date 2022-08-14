@@ -1,4 +1,4 @@
-# About Me 
+# About Me
 
 - 👋 Hi, I’m Krishna Priya Nimmagadda, 18 year old student.
 - 👀 I’m interested in Cybersecurity and capture the flags.
