@@ -1,5 +1,5 @@
 # About Me
-
+  
 - 👋 Hi, I’m Krishna Priya Nimmagadda, 18 year old student.
 - 👀 I’m interested in Cybersecurity and capture the flags.
 - 🌱 I’m currently studying Bachelor of Engineering with Cybersecurity major at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.
