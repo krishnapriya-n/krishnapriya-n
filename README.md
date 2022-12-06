@@ -29,8 +29,8 @@
 </a>
 &nbsp;
 
-<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css/css-original-wordmark.svg">
-<img src="https://github.com/devicons/devicon/raw/master/icons/css/css-original-wordmark.svg" title = "CSS" alt = "CSS" width = "70" height = "70" style = "max-width: 100%;">
+<a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg">
+<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original-wordmark.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
 </a>
 &nbsp;
 
