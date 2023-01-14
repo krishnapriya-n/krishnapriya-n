@@ -1,5 +1,8 @@
-<h1 align = "center"> 🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🌸 </h1>
-
+<div align = "center">
+  <h1> 🌸 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🌸 </h1>
+  <img src="https://komarev.com/ghpvc/?username=krishnapriya-n&style=flat-square&color=blue" alt=""/>
+</div>  
+  
 <div align = "center">
   <img src = "https://media.tenor.com/5dgoQDQKHVoAAAAC/nezuko-running.gif">
 </div>
@@ -63,14 +66,34 @@
   <h2 align = "center"> 🌸 𝓢𝓽𝓪𝓽𝓼 🌸</h2>
   <p align="center" >  
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical">
+      <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=vision-friendly-dark">
     </a>
   </p>
 </div>
+
+<div> 
+  <h1>   </h1>
+  <h2 align = "center"> 🌸 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 🌸</h2>
+  
+  <div id="badges" align = "center">
+    <a href="https://www.linkedin.com/in/krishna-priya-nimmagadda/">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width = "70" height = "70" style = "max-width: 100%;" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://discordapp.com/users/833632236452577340">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png?w=128&f=avif" width = "70" height = "70" style = "max-width: 100%;" alt="Discord Badge"/>
+    </a>
+    <a href="https://www.instagram.com/krishna_priya_n/">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png?w=128&f=avif" width = "70" height = "70" style = "max-width: 100%;" alt="Instagram Badge"/>
+    </a>  
+  </div>
+</div>  
     
 <div align = "center">
   <h1>   </h1>
-  🌸𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮, 𝓱𝓸𝓹𝓮 𝔂𝓸𝓾 𝓮𝓷𝓳𝓸𝔂𝓮𝓭 𝔂𝓸𝓾𝓻 𝓼𝓽𝓪𝔂 𝓱𝓮𝓻𝓮🌸
+  <img src = "https://www.gifcen.com/wp-content/uploads/2022/11/nezuko-gif.gif" align = "center">
+  <h5>🌸𝓣𝓱𝓪𝓷𝓴 𝔂𝓸𝓾 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮, 𝓱𝓸𝓹𝓮 𝔂𝓸𝓾 𝓮𝓷𝓳𝓸𝔂𝓮𝓭 𝔂𝓸𝓾𝓻 𝓼𝓽𝓪𝔂 𝓱𝓮𝓻𝓮🌸</h5>
 </div>
 
     
