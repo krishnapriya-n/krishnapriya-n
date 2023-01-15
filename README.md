@@ -63,6 +63,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
   <a>
     
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=vision-friendly-dark">
+  </p>
+    
 </div>
     
 <div> 
@@ -71,8 +75,9 @@
   <p align="center" >  
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical">
+      <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapriya-n&theme=radical">
       <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=vision-friendly-dark">
     </a>
   </p>
 </div>
