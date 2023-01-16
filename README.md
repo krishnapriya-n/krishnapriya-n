@@ -64,7 +64,7 @@
   <a>
     
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=radical">
   </p>
     
 </div>
@@ -78,7 +78,7 @@
       <br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapriya-n&theme=radical">
       <br/>
-    </a>
+      </a>
   </p>
 </div>
 
