@@ -51,9 +51,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "70" height = "70" style = "max-width: 100%;">
   </a>
   
- <!--- <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
-  </a> --->
+  </a>
   
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
