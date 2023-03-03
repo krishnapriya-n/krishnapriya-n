@@ -7,23 +7,6 @@
   <img src = "https://media.tenor.com/5dgoQDQKHVoAAAAC/nezuko-running.gif">
 </div>
 
-<div> 
-  <h1>    </h1>
-  <h2 align = "center"> 🌸 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌸 </h2>
-  <img src = "https://wallpapercave.com/uwp/uwp505433.gif" align = "right">
-  <li> <b> Name : </b> Krishna Priya Nimmagadda </li>
-  <li> <b> Current study : </b>Bachelor of Engineering with Cybersecurity major at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.</li>
-   <li> <b> Hobbies: </b> Watching anime, learning more on coding, cooking and staying active</li>
-   <li> <b> Working on : </b> Mostly uni course, other than that I am learning a HTML/CSS/JS certification course from Simplilearn</li>
-   <li> I am actively looking for internships in cybersecurity/ related fields to build by skills and learn from real-time work experience. Wish me luck :) </li>
-   <li> I have learnt to use Blender from Digital Technologies at school and have made some cool projects such as a sci-fi game gun animation and a model for checkout carts with built-in weighing scale and barcode scanner to make stuff easier </li>
-</div>
-    
-<div align = "center">
-  <h1>    </h1>
-  <img src = "https://pa1.narvii.com/7302/889ad9d94b927607169b98d7678ec32830b4084br1-540-364_hq.gif">
-</div>
-
 <div align = "center">
   <h1>    </h1>
   <h2> 🌸 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼/ 𝓣𝓸𝓸𝓵𝓼 🌸 </h2>
@@ -33,6 +16,10 @@
             
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
     <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
+  </a>
+   
+  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
   </a>
             
   <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg">
@@ -63,6 +50,23 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
   <a>
     
+</div>
+
+<div> 
+  <h1>    </h1>
+  <h2 align = "center"> 🌸 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌸 </h2>
+  <img src = "https://wallpapercave.com/uwp/uwp505433.gif" align = "right">
+  <li> <b> Name : </b> Krishna Priya Nimmagadda </li>
+  <li> <b> Current study : </b>Bachelor of Engineering with Cybersecurity major at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.</li>
+   <li> <b> Hobbies: </b> Watching anime, learning more on coding, cooking and staying active</li>
+   <li> <b> Working on : </b> Mostly uni course, other than that I am learning a HTML/CSS/JS certification course from Simplilearn</li>
+   <li> I am actively looking for internships in cybersecurity/ related fields to build by skills and learn from real-time work experience. Wish me luck :) </li>
+   <li> I have learnt to use Blender from Digital Technologies at school and have made some cool projects such as a sci-fi game gun animation and a model for checkout carts with built-in weighing scale and barcode scanner to make stuff easier </li>
+</div>
+    
+<div align = "center">
+  <h1>    </h1>
+  <img src = "https://pa1.narvii.com/7302/889ad9d94b927607169b98d7678ec32830b4084br1-540-364_hq.gif">
 </div>
     
 <div> 
