@@ -60,7 +60,7 @@
   <li> <b> Current study : </b>Bachelor of Engineering with Cybersecurity major at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.</li>
    <li> <b> Hobbies: </b> Watching anime, learning more on coding, cooking and staying active</li>
    <li> <b> Working on : </b> Mostly uni course, other than that I am learning a HTML/CSS/JS certification course from Simplilearn</li>
-   <li> I am actively looking for internships in cybersecurity/ related fields to build by skills and learn from real-time work experience. Wish me luck :) </li>
+   <li> I'm on the hunt for internships in cybersecurity and related areas, as I'm eager to develop my skills and gain real-world work experience. Keep your fingers crossed for me, and feel free to offer any advice or support you may have along the way!! </li>
    <li> I have learnt to use Blender from Digital Technologies at school and have made some cool projects such as a sci-fi game gun animation and a model for checkout carts with built-in weighing scale and barcode scanner to make stuff easier </li>
 </div>
     
