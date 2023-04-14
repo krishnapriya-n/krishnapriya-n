@@ -74,9 +74,9 @@
   <h2 align = "center"> 🌸 𝓢𝓽𝓪𝓽𝓼 🌸</h2>
   <p align="center" >  
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical" width = 500>
       <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapriya-n&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapriya-n&theme=radical" width = 500>
       <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=radical" width = 500>
       </a>
