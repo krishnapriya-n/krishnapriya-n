@@ -57,9 +57,9 @@
   <h2 align = "center"> 🌸 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 🌸 </h2>
   <img src = "https://wallpapercave.com/uwp/uwp505433.gif" align = "right">
   <li> <b> Name : </b> Krishna Priya Nimmagadda </li>
-  <li> <b> Current study : </b>Bachelor of Engineering with Cybersecurity major at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.</li>
-   <li> <b> Hobbies: </b> Watching anime, learning more on coding, cooking and staying active</li>
-   <li> <b> Working on : </b> Mostly uni course, other than that I am learning a HTML/CSS/JS certification course from Simplilearn</li>
+  <li> <b> Current study : </b>Bachelor of Computer Science with Cybersecurity specialization at <a href = "https://wgtn.ac.nz/" rel = "nofollow"> Victoria University of Wellington</a>, New Zealand.</li>
+   <li> <b> Hobbies: </b> Watching anime, playing Valorant, learning more on coding, cooking and staying active</li>
+   <li> <b> Working on : </b> Mostly uni course, other than that I am learning more on AWS</li>
    <li> I'm on the hunt for internships in cybersecurity and related areas, as I'm eager to develop my skills and gain real-world work experience. Keep your fingers crossed for me, and feel free to offer any advice or support you may have along the way!! </li>
    <li> I have learnt to use Blender from Digital Technologies at school and have made some cool projects such as a sci-fi game gun animation and a model for checkout carts with built-in weighing scale and barcode scanner to make stuff easier </li>
 </div>
