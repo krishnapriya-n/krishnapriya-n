@@ -10,46 +10,38 @@
 <div align = "center">
   <h1>    </h1>
   <h2> 🌸 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼/ 𝓣𝓸𝓸𝓵𝓼 🌸 </h2>
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "70" height = "70" style = "max-width: 100%;"> 
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
     </a>
-            
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title = "C++" alt = "C++" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-   
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-            
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title = "Java" alt = "Java" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-            
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title = "HTML" alt = "HTML" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-            
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title = "CSS3" alt = "CSS3" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-  
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-  
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-  
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "70" height = "70" style = "max-width: 100%;">
-  </a>
-  
-  <a target = "_blank" rel = "noopener noreferrer" href = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title = "Blender" width = "70" height = "70" style = "max-width: 100%;">
-  <a>
-    
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" width="50" height="50" style="max-width: 100%; margin: 10px; border-radius: 10px;">
+    </a>
+  </div>
 </div>
 
 <div> 
@@ -72,15 +64,15 @@
 <div> 
   <h1>   </h1>
   <h2 align = "center"> 🌸 𝓢𝓽𝓪𝓽𝓼 🌸</h2>
-  <p align="center" >  
-    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical" width = 500>
-      <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapriya-n&theme=radical" width = 500>
-      <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=radical" width = 500>
+  <p align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya-n&&show_icons=true&theme=radical" width="350" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <br />
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya-n&layout=compact&theme=radical" width="350" style="border-radius: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
       </a>
-  </p>
+    </p>
+  </div>
 </div>
 
 <div> 
